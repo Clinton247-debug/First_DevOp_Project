@@ -1,0 +1,4 @@
+#Azure-Sample/
+<h1>functions-dotnet-github</h1>
+<h6> This sample uses Azure Functions and Storage to generate a mMarkdown file with release
+notes when a new release is....</h6>
